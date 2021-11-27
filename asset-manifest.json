@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/react-add-to-cart-project/static/css/main.7a23a025.chunk.css",
+    "main.js": "/react-add-to-cart-project/static/js/main.d4f685c3.chunk.js",
+    "main.js.map": "/react-add-to-cart-project/static/js/main.d4f685c3.chunk.js.map",
+    "runtime-main.js": "/react-add-to-cart-project/static/js/runtime-main.01866841.js",
+    "runtime-main.js.map": "/react-add-to-cart-project/static/js/runtime-main.01866841.js.map",
+    "static/css/2.ecdcdaa7.chunk.css": "/react-add-to-cart-project/static/css/2.ecdcdaa7.chunk.css",
+    "static/js/2.cc6d4669.chunk.js": "/react-add-to-cart-project/static/js/2.cc6d4669.chunk.js",
+    "static/js/2.cc6d4669.chunk.js.map": "/react-add-to-cart-project/static/js/2.cc6d4669.chunk.js.map",
+    "index.html": "/react-add-to-cart-project/index.html",
+    "static/css/2.ecdcdaa7.chunk.css.map": "/react-add-to-cart-project/static/css/2.ecdcdaa7.chunk.css.map",
+    "static/css/main.7a23a025.chunk.css.map": "/react-add-to-cart-project/static/css/main.7a23a025.chunk.css.map",
+    "static/js/2.cc6d4669.chunk.js.LICENSE.txt": "/react-add-to-cart-project/static/js/2.cc6d4669.chunk.js.LICENSE.txt",
+    "static/media/banner_image.1a304c3c.jpg": "/react-add-to-cart-project/static/media/banner_image.1a304c3c.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.01866841.js",
+    "static/css/2.ecdcdaa7.chunk.css",
+    "static/js/2.cc6d4669.chunk.js",
+    "static/css/main.7a23a025.chunk.css",
+    "static/js/main.d4f685c3.chunk.js"
+  ]
+}
