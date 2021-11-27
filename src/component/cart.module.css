@@ -1,0 +1,61 @@
+.empty_screen{
+    padding: 20px;
+}
+.image_wrapper{
+    width: 250px;
+    height: 300px;
+    margin-top: 30px;
+}
+
+.para{
+    margin-top: 30px;
+}
+
+.cart_item_wrapper{
+    display: flex;
+    width: 300px;
+    justify-content: space-between;
+}
+
+.cart_food_img{
+    width: 100px;
+}
+
+.btn_action{
+    background-color: #fff;
+    border: 1px solid rgba(122, 122, 122, 0.87);
+    padding: 5px 10px;
+    color:rgb(116, 108, 108);
+}
+
+.total_amount{
+    display: flex;
+    justify-content: space-between;
+    font-weight: bold;
+    margin-right: 30px;
+}
+
+.amount{
+    color: green;
+}
+
+.checkout_btn{
+    /* background-color: #fc8019;
+    color: #fff; */
+
+    display: flex;
+    margin-top: 30px;
+}
+
+.checkout_btn .btn{
+    background-color: #fc8019;
+    color: #fff;
+    width: 100%;
+    border: none;
+}
+
+.heading{
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+

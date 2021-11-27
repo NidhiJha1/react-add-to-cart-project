@@ -1,0 +1,90 @@
+.container{
+    width: 1200px;
+    margin: 0 auto;
+    display: flex;
+}
+
+.card{
+    margin: 15px;
+    box-shadow: rgb(0 0 0 / 12%) 0px 2px 2px 0px, rgb(0 0 0 / 12%) 0px 2px 4px 0px;
+    padding: 10px;
+}
+
+.card_wrapper{
+    display: flex;
+}
+
+.item_info{
+    width: 70%;
+}
+
+.image_style{
+    width: 150px;
+}
+
+.name{
+    font-size: 16px;
+    font-weight: bold;
+    margin-bottom: 15px;
+}
+
+.price{
+    font-weight: bold;
+}
+
+.card_btn_wrapper{
+    display: flex;
+    justify-content: flex-end;
+}
+
+.col_border{
+    border-left: 1px solid rgba(228, 225, 225, 0.87);
+}
+
+.btn_action{
+    background-color: #fff;
+    border: 1px solid rgba(122, 122, 122, 0.87);
+    padding: 5px 18px;
+    color:rgb(116, 108, 108);
+}
+
+.desc{
+    color:rgb(116, 108, 108);
+    font-size: 14px;
+    margin-top: 20px;
+}
+
+.empty_screen{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    padding: 30px;
+}
+
+.menu_wrapper{
+    display: flex;
+    flex-direction:column;
+    text-align: right;
+    margin-top: 30px;
+ }
+
+ .list_menu{
+     margin-bottom: 20px;
+ }
+
+ .list_menu button{
+     background-color: #fff;
+     border: none;
+     padding: 5px 30px;
+     font-weight: bold;
+ }
+
+ .list_menu button:hover{
+    color: #fc8019;
+    border-right: 5px solid #fc8019;
+}
+.list_menu button:active{
+    color: #fc8019;
+    border-right: 5px solid #fc8019;
+}

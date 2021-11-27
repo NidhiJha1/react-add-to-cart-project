@@ -1,0 +1,180 @@
+.header_wrapper{
+    display: flex;
+    justify-content: space-between;
+    width: 1200px;
+    align-items: center;
+    margin: 0 auto;
+    padding: 20px 30px;
+    color: #3d4152
+}
+
+.right_menu{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.cart{
+    display: flex;
+}
+.cart_item{
+  background-color: #fc8019;
+  position: relative;
+  width: 18px;
+  height: 18px;
+  bottom: 10px;
+  right: 20px;
+  border-radius: 50%;
+  font-size: 10px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-weight: bold;
+  color: #fff;
+}
+
+.icon{
+    font-size: 18px;
+    margin-right: 10px;
+    color: #3d4152;
+}
+
+.footer{
+    background-color: black;
+    padding: 30px 0px;
+    color: rgb(161, 156, 156);
+    text-align: center;
+}
+
+.page_list{
+    font-size: 10px;
+    padding: 10px;
+    color: #93959f;
+    background-color: #f9f9fa;
+}
+.page{
+    max-width: 1200px;
+    margin: 0 auto;
+}
+
+.banner{
+    background-color: #171a29;
+    color: #fff;
+    height: 245px;
+    padding: 20px;
+    width: 100%;
+}
+
+.main_banner{
+    width: 1200px;
+    margin: 0 auto;
+    display: flex;
+    justify-content: space-between;
+}
+
+.banner_img_wrapper{
+    width: 254px;
+    height: 165px;
+    margin-top: 40px;
+
+}
+.banner_img{
+   
+}
+
+.info{
+    margin: 40px;
+    width: 42%;
+}
+
+.offer{
+    margin:  20px 0px;
+}
+.offer div{
+    margin-bottom: 10px;
+}
+
+
+.main_heading{
+    font-size: 20px;
+    font-weight: 500;
+    margin-bottom: 10px;
+}
+.star_rating{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.reactStars{
+  margin-right: 5px;
+}
+
+.rating_number{
+ margin-right: 10px;
+}
+.tag_wrapper{
+    font-size: 15px;
+    margin-bottom: 10px;
+    opacity: 0.7;
+}
+
+.tag{
+    background-color: #fa4a5b;
+    font-size: 13px;
+    padding: 5px 8px;
+    border: none;
+    margin-right: 20px;
+    opacity: .7
+}
+
+.info_name{
+    font-size: 32px;
+    margin-bottom: 10px;
+}
+
+.Marol{
+    opacity: 0.7;
+    font-size: 15px;
+    margin-bottom: 10px;
+}
+
+.product_info{
+    display: flex;
+    justify-content: flex-start;
+}
+
+.line{
+    width: 1px;
+    border-left: 1px solid #FFF;
+    opacity: 0.2;
+    margin: 0px 25px;
+}
+.rating_info{
+    font-size: 16px;
+}
+.desc{
+    font-size: 10px;
+    opacity: 0.7;
+    margin-top: 10px;
+}
+
+.icon_offer{
+    margin-right: 10px;
+}
+.cart_text{
+    position: relative;
+    left: -15px;
+}
+.navbar_icon{
+    margin-right: 20px;
+}
+
+@media (max-width: 1248px) {
+    .info{
+        margin: 40px;
+        width: 40%;
+    }
+    .offer{
+        max-width: 30%;
+    }
+  }
